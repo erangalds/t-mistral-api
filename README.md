@@ -34,3 +34,12 @@ Mistral AI also provides several open-source models available for free under the
 ## API Capabilities
 Mistral AI's API allows developers to integrate these models into their applications. The API supports various functionalities, including natural language processing, text extraction, and coding assistance4. The API is designed to be flexible and user-friendly, enabling developers to build custom AI solutions tailored to their specific needs.
 
+## Tutorial 
+In this tutorial I cover below features / capabilities
+
++ Text Generation with Chat endpoint
++ Vision Capability with their Pixtral multimodal model
++ JSON Mode - Where we can get the outputs in JSON format
++ Moderation
+
+
